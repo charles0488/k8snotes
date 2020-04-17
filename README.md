@@ -3,7 +3,7 @@ in progress
 
 # Skaffold
 
-## Developers's Problem
+## Developers' Problem
 
 Kubernetes manage containers; containers run code. It takes complicated workflow for code to arrive into a container in Kubernetes cluster.
 
