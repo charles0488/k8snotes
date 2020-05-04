@@ -99,3 +99,14 @@ https://kubernetes.io/blog/2018/05/01/developing-on-kubernetes/
 ### References
 
 https://kubernetes.io/blog/2018/05/17/gardener/
+
+# Istio
+
+What is and Why Istio? The Answer is [here](https://istio.io/docs/concepts/what-is-istio/).
+
+### Core Features
+* Traffic management
+* Security
+* Observability
+
+[Running Istio on Minikube.](./istio/MinikubeAndIstio.md)
